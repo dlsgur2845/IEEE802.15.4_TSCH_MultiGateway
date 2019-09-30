@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "ieee802154.h": "c",
+        "packetfunctions.h": "c",
+        "icmpv6rpl.h": "c",
+        "conio.h": "c",
+        "stdio.h": "c",
+        "winsock2.h": "c",
+        "stdlib.h": "c",
+        "ieee802154_security.h": "c",
+        "msf.h": "c",
+        "fstream.h": "c"
+    }
+}
