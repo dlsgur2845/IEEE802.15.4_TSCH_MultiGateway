@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3524C723-6B35-F755-1F4C-FB4447243188}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Unity_server", "..\OneDrive\바탕 화면\졸과\Unity\Unity_server\Unity_server.vcxproj", "{DB3634CB-5D0B-41E2-92AA-2CB352835F36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3524C723-6B35-F755-1F4C-FB4447243188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3524C723-6B35-F755-1F4C-FB4447243188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3524C723-6B35-F755-1F4C-FB4447243188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3524C723-6B35-F755-1F4C-FB4447243188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB3634CB-5D0B-41E2-92AA-2CB352835F36}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{DB3634CB-5D0B-41E2-92AA-2CB352835F36}.Release|Any CPU.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {345E5956-F447-4869-89D0-74035ED6118C}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
